@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm mahmoud
 
-<!--
-**mhroot/mhroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build resources for travel agents and GDS professionals.
 
-Here are some ideas to get you started:
+## 🔗 GDS Hub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[GDS Hub](https://www.gdshub.pro/) is a specialized platform for **Amadeus**, **Galileo**, and **Sabre** GDS systems. It includes:
+
+- Step-by-step PNR guides
+- Command references
+- Error code solutions
+- Training lessons and exams
+- Free tools for travel agents
+
+## 📌 Popular Repositories
+
+- [Amadeus Commands](https://github.com/mhroot/amadeus-commands)
+- [Galileo GDS Guide](https://github.com/mhroot/galileo-gds-guide)
+- [Sabre GDS Guide](https://github.com/mhroot/sabre-gds-guide)
+- [GDS Error Codes](https://github.com/mhroot/gds-error-codes)
+- [GDS Training & Exams](https://github.com/mhroot/gds-training-exams)
+- [GDS Tools](https://github.com/mhroot/gds-tools)
